@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Letters",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T19:56:44.378479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Letters from Home",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/01_Letters_from_Home_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Letters from Home (Album Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/02_Letters_from_Home_(Album_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Letters (Southern-Style Edit)",
+      "artist": "Crowder",
+      "has_synced": true,
+      "path": "select/03_Red_Letters_(Southern-Style_Edit)_Crowder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rednecks, Red Letters, Red Dirt",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/04_Rednecks,_Red_Letters,_Red_Dirt_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Heat Rash In The Shape Of The Show Me State; Or, Letters From Me To Charlotte",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/05_A_Heat_Rash_In_The_Shape_Of_The_Show_Me_State;_Or,_Letters_From_Me_To_Charlotte_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Letters",
+      "artist": "Leonard Cohen",
+      "has_synced": false,
+      "path": "select/06_The_Letters_Leonard_Cohen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Letters",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/07_Love_Letters_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Letters (Soulwax Remix)",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/08_Love_Letters_(Soulwax_Remix)_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Letters",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/09_Love_Letters_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Letters From Earth",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/10_Letters_From_Earth_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Letters from the Road",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/11_Letters_from_the_Road_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Letters (2009 Remastered Version)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_Love_Letters_(2009_Remastered_Version)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Letters",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/13_Love_Letters_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Letters (Extended Version; 2016 - Remaster)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/14_Love_Letters_(Extended_Version;_2016_-_Remaster)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Letters (extended version)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/15_Love_Letters_(extended_version)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gypsy Letters",
+      "artist": "Angel Haze",
+      "has_synced": true,
+      "path": "select/16_Gypsy_Letters_Angel_Haze.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We Could Send Letters",
+      "artist": "Aztec Camera",
+      "has_synced": true,
+      "path": "select/17_We_Could_Send_Letters_Aztec_Camera.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Letters",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Letters_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Letters",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Letters_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Letters",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Letters_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Letters",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Letters_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Letters (2024 Mix)",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Letters_(2024_Mix)_宇多田_ヒカル.txt"
+    }
+  ]
+}
